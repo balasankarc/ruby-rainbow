@@ -1,0 +1,5 @@
+ruby-rainbow (2.0.0-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #805539)
+
+ -- Balasankar C <balasankarc@autistici.org>  Fri, 20 Nov 2015 17:23:33 +0530
