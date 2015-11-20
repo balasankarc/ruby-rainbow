@@ -20,5 +20,9 @@ XB-Ruby-Versions: ${ruby:Versions}
 Depends: ruby | ruby-interpreter,
          ${misc:Depends},
          ${shlibs:Depends}
-Description: Colorize printed text on ANSI terminals
- Colorize printed text on ANSI terminals
+Description: colorize printed text on ANSI terminals
+ Rainbow is a ruby gem for colorizing printed text on ANSI terminals. It
+ provides a string presenter object, which adds several methods to your
+ strings for wrapping them in ANSI escape codes. These codes when printed in a
+ terminal change text attributes like text color, background color, intensity
+ etc.
